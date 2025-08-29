@@ -1,6 +1,6 @@
 # Projeto Linktree
 
-<img src="./github/exemplo-projeto.png" alt="Exemplo do projeto">
+<img src="./.github/exemplo-projeto.png" alt="Exemplo do projeto">
 
 > O projeto visa criar uma "cópia" do famoso site linktree. Feito com um curso gratuito com a finalidade de adquirir conhecimento sobre web.
 
