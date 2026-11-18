@@ -6,11 +6,11 @@
 
 ### Projeto
 
-O projeto foi feito com base em um curso gratuito da rockseat.
+O projeto foi feito com base em um curso gratuito da Rocketseat.
 
 ### Tecnologias
 
 Este projeto foi feito com:
--HTML e CSS
--JavaScript
--Git e Github
+- HTML e CSS
+- JavaScript
+- Git e GitHub
